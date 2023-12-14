@@ -49,7 +49,6 @@ General status of my profile
 </div>
 
 ## **Redes Sociais:**
-*Click on the image to be redirected*
 
 <a href="https://www.linkedin.com/in/lucas-da-silva-7a9313236/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
