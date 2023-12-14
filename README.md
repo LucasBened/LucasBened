@@ -47,3 +47,14 @@ General status of my profile
 <img height="180em" alt="Lucas Benedito Contributions" src="http://github-readme-streak-stats.herokuapp.com?user=LucasBened&hide_border=true" style="max-width: 100%;">
 
 </div>
+
+## **Redes Sociais:**
+*Click on the image to be redirected*
+
+<a href="https://www.linkedin.com/in/lucas-da-silva-7a9313236/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:lussivbsilva1@gmail.com">
+<img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
