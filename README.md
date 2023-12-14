@@ -31,8 +31,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </details>
 
+---- 
 
-## General status of my profile
+General status of my profile
 
 <div align="center">
   
