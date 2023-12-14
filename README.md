@@ -36,7 +36,7 @@
 
 
 
-## **Meus Status**
+## **🚀 Meus Status*:*
 
 <div align="center">
   
@@ -48,7 +48,7 @@
 
 </div>
 
-## **Redes Sociais:**
+## **🎭 Redes Sociais:**
 
 <a href="https://www.linkedin.com/in/lucas-da-silva-7a9313236/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
