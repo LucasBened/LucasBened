@@ -1,10 +1,12 @@
-Olá Sou o Lucas 👋
+Olá! Sou o Lucas 👋
 
 ## **✨ Sobre Mim:**
 * Lucas da Silva Benedito, 19y;
 * Desenvolvedor Front-end;
 * Atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas; 
 * Moro em São Paulo.
+
+* Apaixonado por tecnologia e tudo aquilo que compõe esse mundo!
 
 
 ## **💬 Minhas Habilidades:**
