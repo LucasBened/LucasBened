@@ -47,8 +47,6 @@ Olá! Sou o Lucas 👋
 
 <img height="180em" alt="Lucas Benedito Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasBened&layout=compact" style="max-width: 100%;">
 
-<img height="180em" alt="Lucas Benedito Contributions" src="http://github-readme-streak-stats.herokuapp.com?user=LucasBened&hide_border=true" style="max-width: 100%;">
-
 </div>
 
 ## **🎭 Redes Sociais:**
