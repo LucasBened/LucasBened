@@ -41,14 +41,12 @@ Olá! Sou o Lucas 👋
 
 
 ## **🚀 Meus Status*:*
+<p align="center">
 
-<div align="center">
-  
-<img height="180em" alt="Lucas Benedito Github Status" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasBened&theme=dracula&show_icons=true" style="max-width: 100%;">
-
-<img height="180em" alt="Lucas Benedito Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasBened&layout=compact" style="max-width: 100%;">
-
-</div>
+|Estatisticas|Linguagens|Streaks|
+|-|-|-|
+|[![Lucas da Silva github stats](https://github-readme-stats.vercel.app/api?username=LucasBened&show_icons=true&theme=dark&hide_title=true)](https://github.com/LucasBened)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBened&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/LucasBened)|![LucasBened](https://github-readme-streak-stats.herokuapp.com/?user=LucasBened&theme=dark)
+<hr>
 
 ## **🎭 Redes Sociais:**
 
