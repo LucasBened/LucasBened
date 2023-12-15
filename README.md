@@ -1,3 +1,4 @@
+Olá Sou o Lucas 👋
 
 ## **✨ Sobre Mim:**
 * Lucas da Silva Benedito, 19y;
