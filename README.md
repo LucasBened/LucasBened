@@ -43,7 +43,7 @@ Olá! Sou o Lucas 👋
 
 <div align="center">
   
-<img height="180em" alt="Lucas Benedito Github Status" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasBened&theme=default&show_icons=true" style="max-width: 100%;">
+<img height="180em" alt="Lucas Benedito Github Status" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasBened&theme=dracula&show_icons=true" style="max-width: 100%;">
 
 <img height="180em" alt="Lucas Benedito Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasBened&layout=compact" style="max-width: 100%;">
 
