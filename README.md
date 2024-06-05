@@ -1,7 +1,7 @@
 Olá! Sou o Lucas 👋
 
 ## **✨ Sobre Mim:**
-* Lucas da Silva Benedito, 19y;
+* Lucas da Silva Benedito, 20y;
 * Desenvolvedor Front-end;
 * Atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas; 
 * Moro em São Paulo.
