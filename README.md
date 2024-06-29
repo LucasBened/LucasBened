@@ -38,6 +38,11 @@ Olá! Sou o Lucas 👋
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </details>
 
+## **✨ Projetos em destaque:**
+  <a href="https://github.com/LucasBened/gestao-de-pragas-e-doencas">* Gestão de Doenças e Pragas (HTML, CSS, JS, JAVA)</a>
+  <a href="https://github.com/LucasBened/portifolios-freelancer">* Portifolios Freelancer (HTML, CSS, JS)</a>
+
+* Apaixonado por tecnologia e tudo aquilo que compõe esse mundo!
 
 
 ## **🚀 Meus Status*:*
