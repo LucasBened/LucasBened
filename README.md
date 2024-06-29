@@ -38,7 +38,7 @@ Olá! Sou o Lucas 👋
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </details>
 
-## **✨ Projetos em destaque:**
+## **🚨 Projetos em destaque:**
   <details>
   <summary>Projetos</summary>
   
