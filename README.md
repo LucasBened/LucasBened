@@ -22,9 +22,7 @@ Olá! Sou o Lucas 👋
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 </details>
 
-## **❗ Projetos Destaques:**
-  <summary>Projetos</summary>
- 
+## **❗ Projetos Destaques:** 
  <a href="https://github.com/LucasBened/portifolios-freelancer">
  <a href="https://github.com/LucasBened/gestao-de-pragas-e-doencas">
 
