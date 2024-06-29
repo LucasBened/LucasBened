@@ -23,12 +23,11 @@ Olá! Sou o Lucas 👋
 </details>
 
 ## **❗ Projetos Destaques:**
-<details>
   <summary>Projetos</summary>
  
  <a href="https://github.com/LucasBened/portifolios-freelancer">
  <a href="https://github.com/LucasBened/gestao-de-pragas-e-doencas">
-</details>
+
 
 <details>
   <summary>Design</summary>
