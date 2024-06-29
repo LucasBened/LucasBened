@@ -42,7 +42,7 @@ Olá! Sou o Lucas 👋
   <details>
   <summary>Projetos</summary>
   
-<a href="https://github.com/LucasBened/gestao-de-pragas-e-doencas">Gestão de Doenças e Pragas (HTML, CSS, JS, Java)</a>
+<a href="https://github.com/LucasBened/gestao-de-pragas-e-doencas">Gestão de Pragas e Doenças (HTML, CSS, JS, Java)</a>
 <br>
 <br>
 <a href="https://github.com/LucasBened/portifolios-freelancer">Portifolios Freelancer (HTML, CSS, JS)</a>
