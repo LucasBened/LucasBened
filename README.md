@@ -42,7 +42,7 @@ Olá! Sou o Lucas 👋
 <details>
   <summary>Projetos</summary>
  
- > ><a href="https://github.com/LucasBened/portifolios-freelancer">
+ <a href="https://github.com/LucasBened/portifolios-freelancer">
  <a href="https://github.com/LucasBened/gestao-de-pragas-e-doencas">
 </details>
 
