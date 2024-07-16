@@ -57,6 +57,9 @@ Olá! Sou o Lucas 👋
 |[![Lucas da Silva github stats](https://github-readme-stats.vercel.app/api?username=LucasBened&show_icons=true&theme=dracula&hide_title=true)](https://github.com/LucasBened)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBened&show_icons=true&theme=dracula&layout=compact&hide_title=true)](https://github.com/LucasBened)|![LucasBened](https://github-readme-streak-stats.herokuapp.com/?user=LucasBened&theme=dracula)
 <hr>
 
+![Snake animation](https://github.com/LucasBened/LucasBened/blob/output/github-contribution-grid-snake.svg)
+
+
 ## **🎭 Contato:**
 
 <a href="https://www.linkedin.com/in/lucas-da-silva-7a9313236/">
@@ -66,4 +69,3 @@ Olá! Sou o Lucas 👋
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-![Snake animation](https://github.com/LucasBened/LucasBened/blob/output/github-contribution-grid-snake.svg)
