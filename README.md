@@ -42,7 +42,7 @@
   <details>
   <summary>Projetos</summary>
   
-<a href="https://github.com/LucasBened/gestao-de-pragas-e-doencas">Gestão de Pragas e Doenças (HTML, CSS, JS, Java)</a>
+<a href="https://github.com/LucasBened/gestao-de-pragas-e-doencas">Gestão de Pragas e Doenças</a> <p> (HTML, CSS, JS, Java)</p>
 <br>
 <br>
 <a href="https://github.com/LucasBened/portifolios-freelancer">Portifolios Freelancer (HTML, CSS, JS)</a>
