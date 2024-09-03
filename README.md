@@ -67,6 +67,8 @@
 
 ![Snake animation](https://github.com/LucasBened/LucasBened/blob/output/github-contribution-grid-snake.gif)
 
+<img src="https://raw.githubusercontent.com/LucasBened/LucasBened/output/snake.svg" alt="Snake animation" />
+
 
 ## **🎭 Contato:**
 
