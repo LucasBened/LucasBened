@@ -64,7 +64,7 @@
 |-|-|-|
 |[![Lucas da Silva github stats](https://github-readme-stats.vercel.app/api?username=LucasBened&show_icons=true&theme=dracula&hide_title=true)](https://github.com/LucasBened)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBened&show_icons=true&theme=dracula&layout=compact&hide_title=true)](https://github.com/LucasBened)|![LucasBened](https://github-readme-streak-stats.herokuapp.com/?user=LucasBened&theme=dracula)
 <hr>
-![Snake animation](https://github.com/LucasBened/LucasBened/blob/output/github-contribution-grid-snake.gif)
+
 <img src="https://raw.githubusercontent.com/LucasBened/LucasBened/output/snake.svg" alt="Snake animation" />
 
 
