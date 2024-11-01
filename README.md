@@ -64,7 +64,7 @@
 [<img align="left" height="94px" width="150px" alt="Logo-BSC" src="https://i.postimg.cc/05htk2PY/BSC.png"/>] 
 **Desenvolvedor Frontend** \
 [**BSC**] • Estágiario \
-Linguagens & Tecnologias: `React`, `Tailwind`, `Typescript`, `JavaScript`, `Zustand`, `NodeJS`,`Express`\
+Linguagens & Tecnologias: `React`, `Tailwind`, `Typescript`, `JavaScript`, `Zustand`, `NodeJS`,`Express`, `PostgreSQL`,`Git & Github`\
 Projetos em destaque: [Botão do Pânico](http://bsc-panicbutton.com.br/)
 <br/>
 
