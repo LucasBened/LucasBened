@@ -63,10 +63,10 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://postimg.cc/xqyGgQk8"/>]
+[<img align="left" height="94px" width="94px" alt="Logo-BSC" src="https://postimg.cc/xqyGgQk8"/>]
 
 **Desenvolvedor Frontend** \
-[**SpaceX**] • Estágiario \
+[**BSC**] • Estágiario \
 Linguagens & Tecnologias: `React`, `Tailwind`, `Typescript`, `JavaScript`, `Zustando`, `NodeJS`,\
 Projetos em destaque: [Botão do Pânico](http://bsc-panicbutton.com.br/)
 <br/>
