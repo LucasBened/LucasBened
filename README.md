@@ -63,7 +63,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="110px" alt="Logo-BSC" src="https://i.postimg.cc/05htk2PY/BSC.png"/>]
+[<img align="left" height="94px" width="130px" alt="Logo-BSC" src="https://i.postimg.cc/05htk2PY/BSC.png"/>]
 **Desenvolvedor Frontend** \
 [**BSC**] • Estágiario \
 Linguagens & Tecnologias: `React`, `Tailwind`, `Typescript`, `JavaScript`, `Zustando`, `NodeJS`,\
