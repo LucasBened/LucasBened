@@ -61,8 +61,6 @@
 
 ## **💼Experiência de trabalho:**
 
-<details>
-  <summary>Experiências</summary>
 [<img align="left" height="94px" width="150px" alt="Logo-BSC" src="https://i.postimg.cc/05htk2PY/BSC.png"/>] 
 **Desenvolvedor Frontend** \
 [**BSC**] • Estágiario \
@@ -70,7 +68,6 @@ Linguagens & Tecnologias: `React`, `Tailwind`, `Typescript`, `JavaScript`, `Zust
 Projetos em destaque: [Botão do Pânico](http://bsc-panicbutton.com.br/)
 <br/>
 
-</details>
 
 ## **🚨 Projetos em destaque:**
   <details>
