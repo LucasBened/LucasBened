@@ -59,10 +59,10 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 </details>
 
-## **💬Experiência de trabalho:**
+## **💼Experiência de trabalho:**
 
 <details>
-  <summary>Tecnologias</summary>
+  <summary>Experiências</summary>
 [<img align="left" height="94px" width="150px" alt="Logo-BSC" src="https://i.postimg.cc/05htk2PY/BSC.png"/>] 
 **Desenvolvedor Frontend** \
 [**BSC**] • Estágiario \
