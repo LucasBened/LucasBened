@@ -63,12 +63,12 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://postimg.cc/xqyGgQk8"/>]
 
 **Desenvolvedor Frontend** \
 [**SpaceX**] • Estágiario \
 Linguagens & Tecnologias: `React`, `Tailwind`, `Typescript`, `JavaScript`, `Zustando`, `NodeJS`,\
-Projetos em destaque: [Botão](http://bsc-panicbutton.com.br/)
+Projetos em destaque: [Botão do Pânico](http://bsc-panicbutton.com.br/)
 <br/>
 
 ## **🚨 Projetos em destaque:**
