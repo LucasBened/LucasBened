@@ -65,7 +65,7 @@
 **Desenvolvedor Frontend** \
 [**BSC - Brasil Smart Connect**] • Estágiario \
 Linguagens & Tecnologias: `React`, `Tailwind`, `Typescript`, `JavaScript`, `Zustand`, `NodeJS`,`Express`, `PostgreSQL`,`Git & Github`\
-Projetos em destaque: [Botão do Pânico](http://bsc-panicbutton.com.br/)
+Projetos em destaque: [Botão do Pânico]
 <br/>
 
 
