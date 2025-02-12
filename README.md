@@ -66,7 +66,7 @@
 [**BSC - Brasil Smart Connect**] • Estágiario \
 Linguagens & Tecnologias: `React`, `Tailwind`, `Typescript`, `JavaScript`, `Zustand`,`React Query`,`Context`, `NodeJS`,`Express`, `PostgreSQL`,`Git & Github`\
 Projetos em destaque:\
-[Botão do Pânico]
+[Botão do Pânico]\
 [Rastreador de Ativos]
 <br/>
 
