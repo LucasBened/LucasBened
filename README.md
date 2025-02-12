@@ -69,17 +69,6 @@ Projetos em destaque: [Botão do Pânico]
 <br/>
 
 
-## **🚨 Projetos em destaque:**
-  <details>
-  <summary>Projetos</summary>
-  
-<a href="https://github.com/LucasBened/gestao-de-pragas-e-doencas">Gestão de Pragas e Doenças (HTML, CSS, JS, Java)</a>
-<br>
-<br>
-<a href="https://github.com/LucasBened/portifolios-freelancer">Portifolios Freelancer (HTML, CSS, JS)</a>
-</details>
-
-
 ## **🚀 Meus Status*:*
 <p align="center">
 
