@@ -1,7 +1,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Lucas!+👋" alt="gifName" /> 
 
 ## **✨ Sobre Mim:**
-* Lucas da Silva Benedito, 20y;
+* Lucas da Silva Benedito, 21y;
 * Desenvolvedor Front-end;
 * Atualmente atuando como Desenvolvedor Front-end na empresa BSC - Brasil Smart Connect; 
 * Moro em São Paulo.
