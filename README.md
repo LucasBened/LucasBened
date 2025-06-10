@@ -84,7 +84,7 @@ Projetos em destaque:\
 
 ## **🎭 Contato:**
 
-<a href="https://www.linkedin.com/in/lucasbened/">
+<a target="_blank" href="https://www.linkedin.com/in/lucasbened/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:lussivbsilva1@gmail.com">
