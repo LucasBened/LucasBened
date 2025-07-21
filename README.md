@@ -2,7 +2,6 @@
 
 ## **✨ Sobre Mim:**
 * Lucas da Silva Benedito, 21y;
-* Desenvolvedor Front-end;
 * Atualmente atuando como Desenvolvedor Front-end na empresa BSC - Brasil Smart Connect; 
 * Moro em São Paulo.
 
