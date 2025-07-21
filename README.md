@@ -63,7 +63,7 @@
 [<img align="left" height="94px" width="150px" alt="Logo-BSC" src="https://i.postimg.cc/05htk2PY/BSC.png"/>] 
 **Desenvolvedor Frontend** \
 [**BSC - Brasil Smart Connect**] • Estagiário \
-Linguagens & Tecnologias: `React`, `Tailwind`, `Typescript`, `JavaScript`, `Zustand`,`React Query`,`Context`, `NodeJS`,`Express`, `PostgreSQL`,`Git & Github`\
+Linguagens & Tecnologias: `React`, `Tailwind`, `Typescript`, `JavaScript`, `Zustand`,`React Query`,`Context`, `NodeJS`,`Express`, `PostgreSQL`,`Git & Github`
 
 ## **🚀 Meus Status*:*
 <p align="center">
