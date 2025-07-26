@@ -1,4 +1,4 @@
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&random=false&width=100%&lines=Hi%2C+I'm+Lucas!+👋" alt="gifName" /> 
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&random=false&width=485&lines=Hi%2C+I'm+Lucas!+👋" alt="gifName" /> 
 
 ## **✨ Sobre Mim:**
 * Lucas da Silva Benedito, 21y;
