@@ -2,7 +2,7 @@
 
 ## **✨ Sobre Mim:**
 * Lucas da Silva Benedito, 21y;
-* Atualmente atuando como Desenvolvedor Front-end na empresa BSC - Brasil Smart Connect; 
+* Atualmente atuando como Desenvolvedor Front-end | Shopify Developer na Shakers Agência; 
 * Moro em São Paulo.
 
 * Apaixonado por tecnologia e tudo aquilo que compõe esse mundo!
