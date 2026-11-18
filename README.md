@@ -1,7 +1,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+I'm+Lucas!+👋" alt="gifName" /> 
 
 ## **✨ Sobre Mim:**
-* Lucas da Silva Benedito, 21y;
+* Lucas da Silva Benedito, 22y;
 * Atualmente atuando como Desenvolvedor Front-end | Shopify Developer na Shakers Agência; 
 * Moro em São Paulo.
 
